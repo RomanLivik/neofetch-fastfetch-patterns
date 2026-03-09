@@ -19,6 +19,7 @@ This is repo with styled banners for fastfetch and neofetch for every distros. Y
 vim ~/.config/neofetch/neofetch.conf
 ```
 * Delete or comment some lines (like on screenshot)
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/d3551f50-aa3a-48e0-a3f5-b37a13dd22fc" />
 * Write your text or add a way for your .txt with it
 
 ## Websites and specific symbols
