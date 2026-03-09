@@ -3,6 +3,8 @@ This is repo with styled banners for fastfetch and neofetch for every distros. Y
 
 > On preview some text in configs can "swim off". It is a trouble with browser only. In CLI text readers they looks correctly
 
+> You chould rewrite some data in config files to look on your data in neofetch
+
 ## Linux fonts for correct unicode-symbols
 * noto-fonts
 * ttf-dejavu
