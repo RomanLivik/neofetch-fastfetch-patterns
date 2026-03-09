@@ -12,6 +12,7 @@ This is repo with styled banners for fastfetch and neofetch for every distros. Y
 * Noto (Google)
 * EB Garamond
 * Brill
+* Nerd fonts
 
 ## Installation (for neofetch)
 * Open ~/.config/neofetch/config.conf with CLI text editor
@@ -26,3 +27,4 @@ vim ~/.config/neofetch/neofetch.conf
 * [Iconic unicode symbols](https://www.nerdfonts.com/cheat-sheet)
 * [ASCII nickname](https://patorjk.com/software/taag/#p=display&f=ANSI+Shadow&t=&x=none&v=4&h=4&w=80&we=false)
 * Unicode invisible symbol: "⠀" (use it to have no problems with text)
+* [Nerd fonts download for mac](https://www.nerdfonts.com/font-downloads)
