@@ -7,4 +7,6 @@
 
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/a2d3525e-e836-4f09-b8a2-58131b874f82" />
 
-[Config 2]
+[Config 2](https://github.com/RomanLivik/neofetch-fastfetch-patterns/blob/main/config2.conf)
+
+---
