@@ -7,6 +7,7 @@ This is repo with styled banners for fastfetch and neofetch for every distros. Y
 * ttf-unifont
 * noto-fonts-emoji
 * ttf-ancient-fonts
+* nerd fonts
 
 ## MacOS fonts for correct unicode-symbols
 * Noto (Google)
