@@ -1,10 +1,12 @@
 # Fastfetch and neofetch patterns
 This is repo with styled banners for fastfetch and neofetch for every distros. You can copy all of them and add to your neofetch/fastfetch. File list updates regulary.
-
+---
 > On preview some text in configs can "swim off". It is a trouble with browser only. In CLI text readers they looks correctly
-
+---
 > You chould rewrite some data in config files to look on your data in neofetch
-
+---
+> All configs you can use on every system. If you see config for MacOS you can use it for linux too
+---
 ## Linux fonts for correct unicode-symbols
 * noto-fonts
 * ttf-dejavu
