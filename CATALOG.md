@@ -19,4 +19,4 @@
 
 <img width="1920" height="1034" alt="config4" src="https://github.com/user-attachments/assets/82935942-0a64-4865-b1a1-52724bbb3c4f" />
 
-[Config 4]()
+[Config 4](https://github.com/RomanLivik/neofetch-fastfetch-patterns/blob/main/config4.conf)
