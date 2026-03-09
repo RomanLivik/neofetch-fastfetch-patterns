@@ -13,6 +13,6 @@
 
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ae5fd6fa-3d6c-4d02-a79f-530bce00d7d0" />
 
-[Config 3]()
+[Config 3](https://github.com/RomanLivik/neofetch-fastfetch-patterns/blob/main/config3.conf)
 
 ---
