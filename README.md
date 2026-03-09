@@ -7,6 +7,9 @@ This is repo with styled banners for fastfetch and neofetch for every distros. Y
 ---
 > All configs you can use on every system. If you see config for MacOS you can use it for linux too
 ---
+
+You can watch configs in [catalog](https://github.com/RomanLivik/neofetch-fastfetch-patterns/blob/main/CATALOG.md). There are some screnshots of every config
+
 ## Linux fonts for correct unicode-symbols
 * noto-fonts
 * ttf-dejavu
