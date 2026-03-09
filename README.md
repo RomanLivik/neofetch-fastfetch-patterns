@@ -12,7 +12,7 @@ This is repo with styled banners for fastfetch and neofetch for every distros. Y
 * Noto (Google)
 * EB Garamond
 * Brill
-* Nerd fonts
+* Nerd fonts (add as default)
 
 ## Installation (for neofetch)
 * Open ~/.config/neofetch/config.conf with CLI text editor
