@@ -1,6 +1,8 @@
 # Fastfetch and neofetch patterns
 This is repo with styled banners for fastfetch and neofetch for every distros. You can copy all of them and add to your neofetch/fastfetch. File list updates regulary.
 
+> On preview some text in configs can "swim off". It is a trouble with browser only. In CLI text readers they looks correctly
+
 ## Linux fonts for correct unicode-symbols
 * noto-fonts
 * ttf-dejavu
@@ -24,8 +26,25 @@ vim ~/.config/neofetch/neofetch.conf
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/d3551f50-aa3a-48e0-a3f5-b37a13dd22fc" />
 * Write your text or add a way for your .txt with it (to add like text - look on screenshot)
 <img width="1171" height="765" alt="image" src="https://github.com/user-attachments/assets/7991ea66-dc7d-4ca4-ae31-d91904e8f7e0" />
+* Or you can replace your config with one from this repo
 
-## Websites and specific symbols
+## How to replace a config file
+* Download config file from repo
+* Rename your config file
+```
+cd .config/neofetch
+mv config.conf config-backup.conf
+```
+* Replace downloaded config
+```
+cp /YOUR/WAY/TO/configX.conf ~/.config/neofetch
+```
+* Rename config
+```
+mv configX.conf config.conf
+```
+
+## Websites and specific symbols for your projects
 * [Iconic unicode symbols](https://www.nerdfonts.com/cheat-sheet)
 * [ASCII nickname](https://patorjk.com/software/taag/#p=display&f=ANSI+Shadow&t=&x=none&v=4&h=4&w=80&we=false)
 * Unicode invisible symbol: "⠀" (use it to have no problems with text)
